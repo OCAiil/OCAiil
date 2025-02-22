@@ -17,4 +17,4 @@ Issues：在本仓库提交 Issues 分享你的看法。
 
 ## 特别感谢
 
-特别感谢 [Yukina 模板的开发者](https://github.com/WhitePaper233/yukina)，其出色的设计与功能为博客赋予了独特魅力，极大提升了整体呈现效果。
+特别感谢 [Fuwari 模板的开发者](https://github.com/saicaca/fuwari/)，其出色的设计与功能为博客赋予了独特魅力，极大提升了整体呈现效果。
