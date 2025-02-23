@@ -8,13 +8,6 @@ category: Algorithm Templates
 draft: false
 ---
 
-- [线段树](#线段树)
-- [KMP](#kmp)
-- [ST表](#st表)
-- [线段树+树链剖分](#线段树树链剖分)
-- [并查集](#并查集)
-- [树状数组](#树状数组)
-
 # 线段树
 ```c++
 #include <bits/stdc++.h>
