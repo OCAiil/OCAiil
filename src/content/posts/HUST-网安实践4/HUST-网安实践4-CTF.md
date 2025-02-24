@@ -28,9 +28,9 @@ draft: false
 
 ## MISC1-我的报告呢
 
-根据提示是pdf文件，在流量包中找到文件，此外还在myname里找到了pdf的密码。打开pdf后没有啥有效信息，一开始以为是wbStego4.3open加密，结果弄不出来，最后把它转成了word，
+根据提示是pdf文件，在流量包中找到文件，此外还在myname里找到了pdf的密码。打开pdf后没有啥有效信息，一开始以为是wbStego4.3open加密，结果弄不出来，最后把它转成了word后，能得到flag。
 
-![image-20241202150333684](assets\image-20241202150333684.png)
+![image-2024120215033368](assets\image-2024120215033368.png)
 
 ## MISC2-BB空间
 
