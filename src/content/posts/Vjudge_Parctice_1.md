@@ -4,7 +4,7 @@ image: "https://i.postimg.cc/7LxvWKj8/bb92ecb76c9a361d942ada0105bf2e12.jpg"
 published: 2025-02-21
 description: Practice 1
 tags: [Algorithm, Parctice]
-category: Algorithm Parctices
+category: Algorithm Parctices 
 draft: false
 ---
 
