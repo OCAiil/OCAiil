@@ -1,6 +1,6 @@
 ---
 title: HUST - 网安实践4
-image: "https://i.postimg.cc/xCsXc8RT/13b39b61998a61106ba32e5b1f9469ba.jpg"
+image: "assets/HUST-网安实践4.jpg"
 published: 2024-12-19
 description: 2022届网安实践4习题内容
 tags: [CTF, HUST]

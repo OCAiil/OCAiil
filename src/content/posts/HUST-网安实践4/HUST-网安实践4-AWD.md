@@ -1,6 +1,6 @@
 ---
 title: HUST - 网安实践4结课AWD试题
-image: "https://i.postimg.cc/GpS5jwb3/ad5a4aaa136003b9f720dcdfa7e9687c.jpg"
+image: "assets/HUST-网安实践4-AWD.jpg"
 published: 2024-12-19
 description: 2022届网安实践4AWD试题
 tags: [CTF, HUST, AWD]

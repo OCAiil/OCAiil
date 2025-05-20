@@ -1,6 +1,6 @@
 ---
 title: DIR-645_Cookie溢出漏洞复现
-image: "https://i.postimg.cc/Dy3fn8h9/106449882-p0-master1200.jpg"
+image: "assets/DIR-645_Cookie溢出漏洞复现.jpg"
 published: 2025-03-06
 description: CNVD-2013-11625 漏洞复现
 tags: [漏洞复现, 硬件]

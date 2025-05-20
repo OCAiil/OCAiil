@@ -1,6 +1,6 @@
 ---
 title: Vjudge 练习 2
-image: "https://i.postimg.cc/Y942qFhH/124778496-p0-master1200.jpg"
+image: "assets/Vjudge_Parctice_2.jpg"
 published: 2025-02-22
 description: Practice 2
 tags: [Algorithm, Parctice]

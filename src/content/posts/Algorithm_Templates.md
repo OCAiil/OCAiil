@@ -1,6 +1,6 @@
 ---
 title: 算法板子
-image: "https://i.postimg.cc/PqxHq6yb/58898122-p0.jpg"
+image: "assets/Algorithm_Templates.jpg"
 published: 2025-02-19
 description: 记录自己常用的板子
 tags: [Algorithm, Template]
